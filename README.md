@@ -1,6 +1,5 @@
 # Experiment--01-Experiment-1-8086-Architecture-and-Register-Operations
-# Experiment 1: 8086 Architecture and Register Operations
-
+ 
 ## Aim
 
 To study the architecture of the 8086 microprocessor and write assembly
