@@ -1,6 +1,6 @@
 # Experiment--02-Experiment-1-8086-Architecture-and-Register-Operations
 NAME - Manthan
-REG NO.-RA2511030010333
+Reg No - RA2511030010333
  
 ## Aim
 
@@ -217,7 +217,7 @@ Write an 8086 assembly language program to exchange the contents of two
 
     HLT
 ## Screenshot of the results 
-<img width="635" height="295" alt="image" src="https://github.com/user-attachments/assets/a8cdde5d-325b-49e4-92d8-8f335564d4ed" />
+<img width="1466" height="794" alt="image" src="https://github.com/user-attachments/assets/4a349dfd-c4d1-45b6-b9b9-931f0753b914" />
 
 
 
